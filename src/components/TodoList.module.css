@@ -1,0 +1,26 @@
+.item {
+  width: 90%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+}
+
+button {
+  border-radius: 1rem;
+  padding: 1rem;
+}
+
+.tab {
+  margin: 1rem;
+  display: flex;
+  justify-content: space-between;
+}
+
+.activeTab {
+  background-color: rgb(119, 185, 119);
+}
+
+.edit {
+  border-radius: 0.5rem;
+}

@@ -1,0 +1,20 @@
+.formCon {
+  display: flex;
+  width: 100%;
+  gap: 1rem;
+}
+
+.formCon input {
+  width: 80%;
+  height: 1.5rem;
+  padding: 0.5rem;
+}
+
+.formCon button {
+  width: 15%;
+  border-radius: 1rem;
+}
+
+.error {
+  color: red;
+}
